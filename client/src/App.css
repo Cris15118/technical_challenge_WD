@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.container-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  margin: 20px;
+}
+.container-details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 500px;
+}
+.description{
+  width: 400px;
+  text-align: justify;
+}
